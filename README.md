@@ -16,11 +16,11 @@ Pythonの練習ソフト。良さげなものがなかったので自作。<br>
 
 ------
 ## 環境
-制作環境:
- Unity: 5.5.0f3
- VisualStudio: 2015
- Ironpython: 2.6
- Windows: 10
+制作環境:<br>
+ Unity: 5.5.0f3<br>
+ VisualStudio: 2015<br>
+ Ironpython: 2.6<br>
+ Windows: 10<br>
 
 ------
 ## 使い方
