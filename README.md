@@ -28,6 +28,7 @@ Pythonの練習ソフト。良さげなものがなかったので自作。<br>
 2. Importingディレクトリの中のpythontrainer.unitypackageをインポート。
 3. main.unityをFile -> Building Settingsのシーンに追加する。
 4. ビルド
+<br>
 で使用できます。
 
 ------
