@@ -1,6 +1,6 @@
 # PythonTrainer
 Pythonの練習ソフト。良さげなものがなかったので自作。<br>
-<sub><a href="https://github.com/frodo821">frodo821</a>制作</sub>
+<sub style="text-align: left;"><a href="https://github.com/frodo821">frodo821</a>制作</sub>
 
 ## 目次
 <ol>
